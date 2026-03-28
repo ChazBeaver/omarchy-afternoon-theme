@@ -1,6 +1,6 @@
 return {
   {
-    dir = "ChazBeaver/afternoon.nvim",
+    "ChazBeaver/afternoon.nvim",
     name = "afternoon",
     priority = 1000,
     config = function()
